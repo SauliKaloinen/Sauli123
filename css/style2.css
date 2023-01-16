@@ -17,6 +17,7 @@ body{
         background-color: aliceblue;
         min-width: 200px;
         font-size: large;
+        font-weight: bold;
     }
     
     h1 {
