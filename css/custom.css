@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+}
+
+header{
+    background-color: blanchedalmond;
+
+}
+
+footer{
+    background-color: azure;
+}
+
+.red {
+    background-color: brown;
+}
+
+footer {
+    height: 70px;
+    text-align: center;
+}
+
+.col1 {
+background-color: aliceblue;
+
+}
+
+.col2 {
+background-color: aqua;
+
+}
+
+.col3 {
+background-color:aquamarine
+
+}
